@@ -39,7 +39,6 @@ I think these code repositories are okay...
   </tbody>
 </table>
 
-test
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
