@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi👋 I'm Nealyang
 
-<!--
-**Nealyang/Nealyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Alibaba group
+- 🌱 I’m currently learning React
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I think these code repositories are okay...
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/Nealyang/React-Express-Blog-Demo">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nealyang&repo=React-Express-Blog-Demo&theme=chartreuse-dark" />
+        </a>
+      </td>
+       <td>
+        <a href="https://github.com/Nealyang/PersonalBlog">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nealyang&repo=PersonalBlog&theme=chartreuse-dark" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+📊 **my github stats**
+
+![Nealyang's github stats](https://github-readme-stats.vercel.app/api?username=Nealyang&theme=chartreuse-dark&show_icons=true)
+
+📊 **top languages**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nealyang&theme=chartreuse-dark)
