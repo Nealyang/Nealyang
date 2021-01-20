@@ -39,6 +39,7 @@ I think these code repositories are okay...
   </tbody>
 </table>
 
+📊 **Weekly development breakdown**
 
 <!--START_SECTION:waka-->
 ```text
