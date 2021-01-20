@@ -1,7 +1,7 @@
 ### Hi👋 I'm Nealyang
 
 - 🔭 I’m currently working on Alibaba group
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React,JavaScript
 
 
 I think these code repositories are okay...
