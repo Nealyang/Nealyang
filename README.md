@@ -43,10 +43,10 @@ I think these code repositories are okay...
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   9 hrs 39 mins   █████████████░░░░░░░░░░░░   52.31 % 
-TypeScript   5 hrs 16 mins   ███████░░░░░░░░░░░░░░░░░░   28.53 % 
-HTML         1 hr 48 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-JSON         1 hr 22 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-LESS         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+JavaScript   9 hrs 28 mins   ███████████░░░░░░░░░░░░░░   44.13 % 
+TypeScript   8 hrs 23 mins   █████████▓░░░░░░░░░░░░░░░   39.09 % 
+JSON         1 hr 57 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+HTML         1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+LESS         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 ```
 <!--END_SECTION:waka-->
