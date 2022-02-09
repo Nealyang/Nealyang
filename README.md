@@ -43,6 +43,6 @@ I think these code repositories are okay...
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   49 mins         ████████████████████████▓   98.28 % 
 ```
 <!--END_SECTION:waka-->
